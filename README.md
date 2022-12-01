@@ -1,1 +1,1 @@
-# python-class-notes
+# Weekly notes from Python/Flask class 
